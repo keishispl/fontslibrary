@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Splatfont2';
+    src: url('splatfont2.woff') format('woff'),
+         url('splatfont2.woff2') format('woff2'),
+         url('splatfont2.ttf') format('truetype'),
+}

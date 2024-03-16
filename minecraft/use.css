@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('https://keishispl.github.io/fontslibrary/minecraft/mcnormal.woff') format('woff'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcnormal.woff2') format('woff2'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcnormal.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Minecraft';
+    src: url('https://keishispl.github.io/fontslibrary/minecraft/mcitalic.woff') format('woff'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcitalic.woff2') format('woff2'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Minecraft';
+    src: url('https://keishispl.github.io/fontslibrary/minecraft/mcbold.woff') format('woff'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcbold.woff2') format('woff2'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Minecraft';
+    src: url('https://keishispl.github.io/fontslibrary/minecraft/mcitalicbold.woff') format('woff'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcitalicbold.woff2') format('woff2'),
+         url('https://keishispl.github.io/fontslibrary/minecraft/mcitalicbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
